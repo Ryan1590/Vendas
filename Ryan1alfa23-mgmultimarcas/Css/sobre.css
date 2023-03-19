@@ -1,0 +1,243 @@
+body {
+    background-color:rgb(255, 253, 253);
+ }
+
+ .meio{
+   background-color: #010315;
+   color:white;
+ }
+ 
+ section {
+    width: 100%;
+    margin: 0 auto;
+ }
+ 
+ #header {
+    padding: 30px;
+ }
+
+ .whats {
+   width: 80px;
+   height: 60px;
+   position: fixed;
+   bottom: 40px;
+   right: 40px;
+}
+
+ #logorm {
+    margin-top: -20px;
+    padding: 10px;
+    font-size: 40px;
+    margin-top: -49px;
+ }
+ 
+ img.foguete {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    margin-left: 272px;
+    margin-top: 33px;
+ }
+ 
+ #header div {
+    display: inline-block;
+ }
+ 
+ #header .contato{
+    float: right;
+ }
+ 
+ nav.menu {
+    background-color: #273096;
+    text-align: center;
+ }
+ 
+ nav.menu ul li {
+    display: inline-block;
+    padding:  18px 90px;
+    font-size: 17px;  
+ }
+ 
+ nav.menu ul li a {
+    color: rgb(255, 255, 255);
+ }
+ 
+ .contato {
+    color:#010315 ;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+ }
+ 
+ a.contato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .facebook {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+ }
+ .instagram {
+    width: 40px;
+    height: 40px;  
+    margin-top: 10px;
+ }
+ 
+ a {
+    text-decoration: none;
+ }
+ 
+  .banner img {
+    width: 100%;
+ }
+ 
+ .marcas ul li {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+ }
+
+ .rodape {
+    width: 100%;
+    height: 250px;
+ }
+ 
+ .rodape {
+    display: inline-block;
+    width: 30%;
+ }
+ 
+ footer {
+    background-color: rgb(10, 2, 2); 
+    margin: 0;
+ }
+ 
+ .centerrodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    text-decoration: none;
+    padding: 5px;
+ }
+ 
+ a {
+    color: white;
+ }
+ 
+ .inptfooter {
+    padding: 3px;
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    margin-top: 10px;
+ }
+ 
+ button.enviar {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width: 150px;
+    height: 40px;
+ }
+ 
+ .rodapeespaco {
+    padding: 8px;
+ }
+
+ button {
+    margin: 20px;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(35, 5, 132);
+    color: white;
+    margin-left: 25px;
+    border-radius: 10px;
+ }
+ 
+ button:hover {
+    cursor: pointer;
+ }
+ .sobre {
+    display: inline-block;
+    width: 20%;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.missao {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.historiarm{
+   width: 70%;
+   font-size: 14px;
+   line-height: 22px;
+   padding: 20px;
+   margin-left: 280px;
+   margin-top: 5px;
+}
+
+.rmimports{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 50px;
+}
+
+p.cabecaquemsomos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+div.quemsomos{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 55%;
+    padding: 15px;
+}
+
+.quemsomospai {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cabecaquemsomos{
+    text-transform: uppercase;
+    font-weight:bold;
+}
+.cabecaquemsomos{
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+.cabecaquemsomos {
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+.cabecaquemsomos{
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+.rmimports{
+    text-transform: uppercase;
+    font-weight:bold;
+}

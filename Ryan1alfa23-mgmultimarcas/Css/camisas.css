@@ -1,0 +1,354 @@
+body {
+    background-color:white;
+ }
+ 
+ section {
+    width: 100%;
+    margin: 0 auto;
+ }
+ 
+ #header {
+    padding: 30px;
+ }
+ 
+ #logorm {
+    margin-top: -20px;
+    padding: 10px;
+    font-size: 40px;
+    margin-top: -49px;
+ }
+ 
+ img.foguete {
+    width: 40px;
+    height: 40px;
+    margin: 0 auto;
+    margin-left: 272px;
+    margin-top: 33px;
+ }
+ 
+ #header div {
+    display: inline-block;
+ }
+ 
+ #header .contato{
+    float: right;
+ }
+ 
+ nav.menu {
+    background-color: #273096;
+    text-align: center;
+ }
+ 
+ nav.menu ul li {
+    display: inline-block;
+    padding:  18px 90px;
+    font-size: 17px;  
+ }
+ 
+ nav.menu ul li a {
+    color: rgb(255, 255, 255);
+ }
+ 
+ .contato {
+    color:#010315 ;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+ }
+ 
+ a.contato{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .whats {
+    width: 80px;
+    height: 60px;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+ }
+ 
+ .facebook {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+ }
+ .instagram {
+    width: 40px;
+    height: 40px;  
+    margin-top: 10px;
+ }
+ 
+ a {
+    text-decoration: none;
+ }
+ 
+  .banner img {
+    width: 100%;
+    height: 400px;
+ }
+ 
+ .marcas ul li {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 25px;
+ }
+ 
+  .produtos  {
+    display:inline-block;
+    width: 12%;
+    font-size: 12px;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    border:  solid rgb(13, 13, 13) 1px;   
+ }
+ 
+ .item {
+    margin-top: 5px;
+    margin: -10px;
+    color: #273096;
+    font-size: 12px;
+ }
+ 
+ .title {
+    margin-top: 20px;
+ }
+ 
+ .desc {
+    margin: 3px;
+ }
+ 
+ .valor {
+    margin: 3px;
+ }
+ 
+ .desconto {
+    margin: 5px;
+ }
+ 
+ .parcela{
+    margin: 3px;
+ }
+ 
+ .produtos {
+    padding: 10px;
+ }
+ 
+ .containner1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .containner2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+ }
+ 
+ .containner3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+  
+ .item img {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .parcela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .title {
+    display: flex;
+    justify-content: center;
+ }
+ .desc {
+    display: flex;
+    justify-content: center;
+ }
+ .valor {
+    display: flex;
+    justify-content: center;
+ }
+ 
+ #bannermeio  {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ img.bannerpromo {
+    width: 1140px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .produtos:hover {
+    cursor: pointer;
+ }
+ 
+ .lancamentos {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px;
+ }
+ 
+ .produtos:hover {
+    background-color: rgb(172, 208, 212);
+ }
+ 
+ .divulgacao {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+ }
+ 
+ .texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    text-transform: uppercase;
+ }
+ 
+ .sobre {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+ }
+ 
+ 
+ div .produtos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+ } 
+ 
+ button {
+    margin: 20px;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(35, 5, 132);
+    color: white;
+    margin-left: 25px;
+    border-radius: 10px;
+ }
+ 
+ button:hover {
+    cursor: pointer;
+ }
+ 
+ .textovideo {
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 150px;
+ }
+ 
+ .sobrevideo {
+    background-color: rgb(219, 219, 219);
+ }
+ 
+ div.textovideo {
+    display: inline-block;
+    margin-left:15%;
+ }
+ 
+ div#videovenda {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    font-weight: 600;  
+ }
+ 
+ div#mapalocalizacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8px;
+    font-weight: 600;
+ }
+ 
+ .rodape {
+    width: 100%;
+    height: 250px;
+ }
+ 
+ .rodape {
+    display: inline-block;
+    width: 30%;
+ }
+ 
+ footer {
+    background-color: rgb(10, 2, 2); 
+    margin: 0;
+ }
+ 
+ .centerrodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    text-decoration: none;
+    padding: 5px;
+ }
+ 
+ a {
+    color: white;
+ }
+ 
+ .inptfooter {
+    padding: 3px;
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+    margin-top: 10px;
+ }
+ 
+ button.enviar {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    width: 150px;
+    height: 40px;
+ }
+ 
+ .rodapeespaco {
+    padding: 8px;
+ }
+ 
+ div.descontoemcima {
+    margin-left: 140px;
+    margin-top: 14px;
+    background-color: green;
+    color:white ;
+    text-transform: uppercase;
+    border-radius:2px;
+    padding: 3px;
+    font-weight: bold;
+    font-size: 13px;
+ }
